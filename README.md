@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayo Omojola</h1>
 <h3 align="center">.py</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b4/00/bb/b400bba24a3ac713c5611facf4376d7e.jpg">
 
 - 🔭 I’m currently working on **ColHive**
 
