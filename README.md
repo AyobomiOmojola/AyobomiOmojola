@@ -7,7 +7,7 @@
 
 - 🌱 I’m diving into **DevOps**
 
-- 💬 Python => first **Love** exploring more Languages
+- 💬 Python => first :blue_heart:, exploring more Languages
 
 - 📝 My fluency? **English, Code and Sarcasm**
 
