@@ -7,7 +7,7 @@
 
 - 🌱 I’m diving into **DevOps**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Python => first **Love** exploring more Languages
 
 - 📝 My fluency? **English, Code and Sarcasm**
 
