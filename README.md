@@ -9,7 +9,7 @@
 
 - 💬 Python => first :blue_heart:, exploring more Languages
 
-- 📝 My fluency? **English, Code and Sarcasm**
+- 📝 My fluency? **English, Code and ... Whistling:man_facepalming:**
 
 - 📫 How to reach me **ayojola8@gmail.com**
 
