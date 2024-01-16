@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ColHive**
 
-- 🌱 I’m diving into **Flutter**
+- 🌱 I’m diving into **QA Engineering**
 
 - 💬 Python => first :blue_heart:, exploring more Languages
 
