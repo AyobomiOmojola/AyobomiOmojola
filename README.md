@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ColHive**
 
-- 🌱 I’m diving into **QA Engineering**
+- 🌱 I’m diving into **QA Automation Engineering**
 
 - 💬 Python => first :blue_heart:, exploring more Languages
 
