@@ -15,7 +15,7 @@
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,html,css)](https://skillicons.dev)
 
 ### Frameworks, DBMS and other Technologies:
 
