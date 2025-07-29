@@ -3,11 +3,10 @@
 <h3 align="center">main.py</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif">
 
-- 🔭 I’m currently working on **ColHive**
 
 - 🌱 I’m a Software Quality Engineer :gear:, :bug:
 
-- 💬 Python => first :blue_heart:, Typescript => present :orange_heart:
+- 💬 Python => first :blue_heart: || Typescript => present :orange_heart:
 
 - 📝 My fluency? **English, Code and ... Whistling:man_facepalming:**
 
@@ -23,4 +22,4 @@
 
 ### Frameworks, DBMS and other Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,aws,git,redis,docker,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,postgres,mysql,aws,git,redis,docker,linux,postman)](https://skillicons.dev)
