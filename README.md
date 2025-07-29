@@ -17,6 +17,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)
 
+### Automation Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,playwright,cypress,webdriver.io)](https://skillicons.dev)
+
 ### Frameworks, DBMS and other Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,aws,git,redis,docker,linux,postman,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,aws,git,redis,docker,linux,postman)](https://skillicons.dev)
