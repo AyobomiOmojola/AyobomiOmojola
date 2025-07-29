@@ -19,7 +19,7 @@
 
 ### Automation Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,cypress-light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://skillicons.dev)
 
 ### Frameworks, DBMS and other Technologies:
 
