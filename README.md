@@ -6,7 +6,7 @@
 
 - 🌱 I’m a Software Quality Engineer :gear:, :bug:
 
-- 💬 Python => first :blue_heart: || Typescript => present :orange_heart:
+- 💬 Python => first :blue_heart: | | Typescript => present :orange_heart:
 
 - 📝 My fluency? **English, Code and ... Whistling:man_facepalming:**
 
