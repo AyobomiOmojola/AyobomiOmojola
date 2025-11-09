@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif">
 
 
-- 🌱 I’m a Software Quality Engineer :gear:, :bug:
+- 🌱 I’m a Software Developer and Quality Engineer :gear:, :bug:
 
 - 💬 Python => first :blue_heart:  | |  Typescript => present :orange_heart:
 
