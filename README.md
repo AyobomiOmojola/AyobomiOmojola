@@ -22,4 +22,4 @@
 
 ### Frameworks, DBMS and other Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=django,postgres,mysql,aws,git,redis,docker,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,express.js,node.js,postgres,mysql,aws,git,redis,docker,linux,postman)](https://skillicons.dev)
